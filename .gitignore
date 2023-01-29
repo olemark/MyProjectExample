@@ -1,7 +1,6 @@
 allure-report/
 .tmp/
 .idea/
-node_modules/
 allure-results/
 screenshots/
 .DS_Store
